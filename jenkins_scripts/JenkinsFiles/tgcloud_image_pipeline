@@ -1,0 +1,6 @@
+#!/bin/groovy
+
+JOB_ID = "tgcloud_image"
+
+echo "This is tgcloud image pipeline"
+println "This is tgcloud image pipeline"
